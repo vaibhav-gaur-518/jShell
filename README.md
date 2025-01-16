@@ -1,4 +1,4 @@
-# A quirky little Java shell that’s got your back with commands like goto, show, clear, and more! 🚀💻🎮 Get ready to have some fun while coding! 😎 
+# A quirky little Java shell that’s got your back with commands like goto, show, clear, and more! 🚀💻🎮 Get ready to have some fun 😎 
 # Yes, I don’t know why I created this either... but here we are! 🤷‍♂️😂
 
 https://github.com/user-attachments/assets/fc2c2899-7531-484f-b00c-009fd9ce61ff
