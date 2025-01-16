@@ -1,7 +1,7 @@
 # A quirky little Java shell that’s got your back with commands like goto, show, clear, and more! 🚀💻🎮 Get ready to have some fun 😎 
 # Yes, I don’t know why I created this either... but here we are! 🤷‍♂️😂
 
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/fc2c2899-7531-484f-b00c-009fd9ce61ff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/fc2c2899-7531-484f-b00c-009fd9ce61ff" autoplay;></iframe>
 
 ## ✅ Implemented essential commands for file and directory management:
 ### create: Create new directories and files with ease.
